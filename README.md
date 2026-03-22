@@ -5,7 +5,7 @@ Banka Srihitha Reddy
 # Branch
 BTech- Aerospace
 # Year
-first yeear
+first year
 # Institution
 Vellore Institute of Engineering, Bhopal
 
